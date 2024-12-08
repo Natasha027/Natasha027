@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Natasha027
-- 👀 I’m interested in Data Science & Machine Learning.
-- 🌱 I’m currently learning Deep Learning.
+- 👀 I’m a Data Scientist.
+- 🌱 I’m currently working on building ML pipelines for a Client.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
